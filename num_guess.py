@@ -5,7 +5,7 @@
 # "Too high" or "Too low" respectively. The program uses a loop that repeats itself until the user
 # correctly guesses the number and records the amount of guesses it took.
 
-print("Enter the number for a player to guess.")
+print("Enter the number for the player to guess.")
 number_to_guess = int(input())
 
 print("Enter your guess.")
